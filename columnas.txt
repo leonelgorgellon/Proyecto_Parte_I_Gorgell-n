@@ -1,0 +1,44 @@
+📊 Columnas:
+crash_date : La fecha en que ocurrió el accidente.
+Traffic_control_device : El tipo de dispositivo de control de tráfico involucrado (por ejemplo, semáforo, señal).
+weather_condition : Las condiciones climáticas en el momento del accidente.
+illumination_condition : Las condiciones de iluminación en el momento del accidente.
+first_crash_type : el tipo inicial del choque (por ejemplo, frontal, trasero).
+Trafficway_type : El tipo de vía involucrada en el accidente (por ejemplo, autopista, carretera local).
+alineación : La alineación de la carretera donde ocurrió el accidente (por ejemplo, recta, curva).
+roadway_surface_cond : La condición de la superficie de la carretera (por ejemplo, seca, húmeda, helada).
+road_defect : Cualquier defecto presente en la superficie de la carretera.
+crash_type : el tipo general del fallo.
+crossing_related_i : si el accidente estuvo relacionado con una intersección.
+daño : La extensión del daño causado por el accidente.
+prim_contributory_cause : la causa principal que contribuyó al bloqueo.
+num_units : El número de vehículos involucrados en el accidente.
+most_severe_injury : La lesión más grave sufrida en el accidente.
+injuries_total : El número total de lesiones reportadas.
+injuries_fatal : El número de lesiones fatales resultantes del accidente.
+injuries_incapacitating : El número de lesiones incapacitantes.
+injuries_non_incapacitating : El número de lesiones no incapacitantes.
+injuries_reported_not_evident : El número de lesiones reportadas pero no visiblemente evidentes.
+injuries_no_indication : El número de casos sin indicación de lesión.
+crash_hour : La hora en que ocurrió el accidente.
+crash_day_of_week : El día de la semana en que ocurrió el accidente.
+crash_month : El mes en que ocurrió el accidente.
+
+
+
+.................
+ANALIZAR PUNTOS CRITICOS 
+REALIZAR PREGUNTAS DE INTERES 
+ESCRIBIR EN TIEMPO PASADO CUANDO DESCRIBEN RESULTADOS Y COMPARAR 
+VER SI SE PUEDE RESOLVER ALGUN PROBLEMA ATRAVEZ DE NUESTRO ANALISIS. 
+
+Resumen: 
+una breve descripcion donde menciona el contenido principal, los hallazgos clave del trabajo de manera concisa y precisa 
+
+Objetivo: determinar que es lo que desean resolver. 
+
+Contexto comercial: informacion acerca de la empresa y posicion en base al motivo del objetivo, en este caso puede ser imaginario
+
+Hipotesis: se refiere a una suposcion o afirmación que se formula antes de realizar un analisis con el objetivo de ser probada
+o refutada utilizando los datos disponible. Por ejemplo: 
+h
